@@ -17,28 +17,30 @@ It showcases modern UI design, responsive layouts, and interactive features usin
 - **Fonts:** Google Fonts (Playfair Display, Poppins)  
 
 ## Project Structure
+```text
 ├── Cinema Page/
-│ ├── cinema.html
-│ ├── cinema.css
-│ └── cinema.js
+│   ├── cinema.html
+│   ├── cinema.css
+│   └── cinema.js
 ├── Feedback Page/
-│ ├── feedback.html
-│ ├── feedback.css
-│ └── feedback.js
+│   ├── feedback.html
+│   ├── feedback.css
+│   └── feedback.js
 ├── images/
-│ └── (all image assets)
+│   └── (all image assets)
 ├── Landing Page/
-│ ├── landing.html
-│ ├── landing.css
-│ └── landing.js
+│   ├── landing.html
+│   ├── landing.css
+│   └── landing.js
 ├── Now Showing Page/
-│ ├── nowShowing.html
-│ ├── nowShowing.css
-│ └── nowShowing.js
+│   ├── nowShowing.html
+│   ├── nowShowing.css
+│   └── nowShowing.js
 ├── Promo Page/
-│ ├── promo.html
-│ ├── promo.css
-│ └── promo.js
+│   ├── promo.html
+│   ├── promo.css
+│   └── promo.js
+
 
 
 ## Installation & Usage
