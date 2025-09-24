@@ -41,7 +41,7 @@ It showcases modern UI design, responsive layouts, and interactive features usin
 │   ├── promo.css
 │   └── promo.js
 
-
+```
 
 ## Installation & Usage
 1. Clone the repository  
